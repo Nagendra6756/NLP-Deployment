@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 23 17:32:25 2021
+
+@author: nagan
+"""
+
+web: gunicorn app:app
